@@ -5,7 +5,7 @@ import sys
 
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from Wafflefront import Ui_Solidwaffle
+from src.ui.Wafflefront import Ui_Solidwaffle
 class MyWindow(QMainWindow, Ui_Solidwaffle):
     def __init__(self, parent=None):
         super(MyWindow, self).__init__(parent)

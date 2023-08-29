@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PROJECT Version="20.7.1">
+  <COMPONENT Id="caphyon.repackager.component.ProductDetails">
+    <COLLECTION Name="__KeyValueCollection">
+      <ITEM Key="ProductLanguage" Value="1033"/>
+      <ITEM Key="SessionMonitoring" Value="false"/>
+    </COLLECTION>
+    <COLLECTION Name="PackagesBundle">
+      <ITEM Sequence="0" Path="C:\Users\MengYY\PycharmProjects\solidwafflw\build_win\main.dist\main.exe" CommandLine=""/>
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.ProjectData">
+    <COLLECTION Name="__KeyValueCollection">
+      <ITEM Key="License" Value="0"/>
+      <ITEM Key="Msix" Value="false"/>
+      <ITEM Key="Msi" Value="true"/>
+      <ITEM Key="Appv" Value="false"/>
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.ProjectSettings">
+    <COLLECTION Name="__KeyValueCollection">
+      <ITEM Key="PromptBeforeInstall" Value="false"/>
+      <ITEM Key="PromptAfterInstall" Value="true"/>
+      <ITEM Key="CheckMachineState" Value="true"/>
+      <ITEM Key="SaveSnapshots" Value="false"/>
+      <ITEM Key="EnableNoiseFilter" Value="false"/>
+      <ITEM Key="UiAutomation" Value="false"/>
+      <ITEM Key="CreateNoiseFile" Value="false"/>
+      <ITEM Key="ProccesMonitor" Value="true"/>
+      <ITEM Key="NoiseFile" Value="false"/>
+      <ITEM Key="DetectEmbeddedMsi" Value="false"/>
+      <ITEM Key="GenerateBat" Value="false"/>
+      <ITEM Key="GeneratePowershell" Value="false"/>
+      <ITEM Key="NoiseFilePath" Value=""/>
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.ProjectNotes">
+    <COLLECTION Name="__KeyValueCollection">
+    </COLLECTION>
+    <COLLECTION Name="SessionNotes">
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.ProjectSessions">
+    <COLLECTION Name="__KeyValueCollection">
+    </COLLECTION>
+    <COLLECTION Name="Sessions">
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.ProjectSettings">
+    <COLLECTION Name="__KeyValueCollection">
+    </COLLECTION>
+  </COMPONENT>
+  <COMPONENT Id="caphyon.repackager.component.TestPackage">
+    <COLLECTION Name="__KeyValueCollection">
+    </COLLECTION>
+  </COMPONENT>
+</PROJECT>
